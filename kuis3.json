@@ -1,0 +1,102 @@
+[
+  {
+    "soal0": {
+      "soal": "Di bawah ini sifat-sifat magnet , kecuali ....",
+      "a": "a. bila didekatkan kutub senama akan tolak menolak",
+      "b": "b. menarik benda-benda yang terbuat dari besi",
+      "c": "c. menarik benda-benda yang terbuat dari kaca",
+      "d": "d. semua benar",
+      "benar": "c"
+    }
+  },
+  {
+    "soal1": {
+      "soal": "bentuk magnet yang digunakan untuk kompas adalah ....",
+      "a": "a. batang",
+      "b": "b. jarum",
+      "c": "c. cincin",
+      "d": "d. semua benar",
+      "benar": "b"
+    }
+  },
+  {
+    "soal2": {
+      "soal": "Berikut ini adalah cara membuat magnet, kecuali ....",
+      "a": "a. Dengan cara menggosok",
+      "b": "b. Dengan cara arus listrik",
+      "c": "c. Dengan cara dibakar",
+      "d": "d. semua benar",
+      "benar": "c"
+    }
+  },
+  {
+    "soal3": {
+      "soal": "Di bawah ini merupakan contoh benda paramagnetik adalah ....",
+      "a": "a. Alumunium",
+      "b": "b. Nikel",
+      "c": "c. Besi",
+      "d": "d. semua benar",
+      "benar": "a"
+    }
+  },
+  {
+    "soal4": {
+      "soal": "Benda-benda yang dapat ditarik kuat oleh magnet antara lain ...",
+      "a": "a. besi, baja, timah, dan emas",
+      "b": "b. besi, baja, nikel, dan timah hitam",
+      "c": "c. besi, emas, bismut, dan aluminium",
+      "d": "d. semua salah",
+      "benar": "b"
+    }
+  },
+  {
+    "soal5": {
+      "soal": "Benda yang tidak bisa ditarik magnet dinamakan.... ",
+      "a": "a. benda non magnetis",
+      "b": "b. benda non logam",
+      "c": "c. benda magnetis",
+      "d": "d. semua salah",
+      "benar": "a"
+    }
+  },
+  {
+    "soal6": {
+      "soal": "Contoh sumber energi yang tidak bisa diperbaharui adalah ... ",
+      "a": "a. Batubara",
+      "b": "b. Matahari",
+      "c": "c. Angin",
+      "d": "d. semua benar",
+      "benar": "a"
+    }
+  },
+  {
+    "soal7": {
+      "soal": "Solder digunakan untuk merakit atau membongkar komponen pada peralatan elektronik. Perubahan energi yang terjadi adalah .... ",
+      "a": "a. energi panas menjadi energi cahaya",
+      "b": "b. energi gerak menjadi energi listrik",
+      "c": "c. energi listrik menjadi energi panas",
+      "d": "d. semua benar",
+      "benar": "c"
+    }
+  },
+  {
+    "soal8": {
+      "soal": "Pernyataan berikut yang benar adalah ...",
+      "a": "a. Batubara termasuk sumberdaya alam yang kekal",
+      "b": "b. solar diperoleh dari pengolahan batubara",
+      "c": "c. bensin berasal dari minyak bumi",
+      "d": "d. semua salah",
+      "benar": "c"
+    }
+  },
+  {
+    "soal9": {
+      "soal": "Perubahan energi yang terjadi ketika kita menyalakan benda diatas adalah ... ",
+      "a": "a. Energi kimia menjadi energi gerak",
+      "b": "b. Energi listrik menjadi energgi bunyi dan cahaya",
+      "c": "c. Energi listrik menjadi energi pegas dan gerak",
+      "d": "d. semua benar",
+      "benar": "b"
+    }
+  }
+]

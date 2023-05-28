@@ -1,0 +1,102 @@
+[
+  {
+    "soal0": {
+      "soal": "Di bawah ini sifat-sifat magnet , kecuali ....",
+      "a": "a. bila didekatkan kutub senama akan tolak menolak",
+      "b": "b. menarik benda-benda yang terbuat dari besi",
+      "c": "c. menarik benda-benda yang terbuat dari kaca",
+      "d": "d.bila didekatkan kutub berbeda tarik menarik",
+      "benar": "c"
+    }
+  },
+  {
+    "soal1": {
+      "soal": "Bentuk magnet yang digunakan untuk kompas adalah ....",
+      "a": "a. batang",
+      "b": "b. jarum",
+      "c": "c. cincin",
+      "d": "d. Tabung",
+      "benar": "b"
+    }
+  },
+  {
+    "soal2": {
+      "soal": "Berikut ini adalah cara membuat magnet, kecuali ....",
+      "a": "a. Dengan cara menggosok",
+      "b": "b. Dengan cara arus listrik",
+      "c": "c. Dengan cara dibakar",
+      "d": "d. Dengan cara ditempelkan",
+      "benar": "c"
+    }
+  },
+  {
+    "soal3": {
+      "soal": "Di bawah ini merupakan contoh benda paramagnetik adalah ....",
+      "a": "a. Alumunium",
+      "b": "b. Nikel",
+      "c": "c. Besi",
+      "d": "d. baja",
+      "benar": "a"
+    }
+  },
+  {
+    "soal4": {
+      "soal": "Benda-benda yang dapat ditarik kuat oleh magnet antara lain ...",
+      "a": "a. besi, baja, timah, dan emas",
+      "b": "b. besi, baja, nikel, dan timah hitam",
+      "c": "c. besi, emas, bismut, dan aluminium",
+      "d": "d. besi, bismut, timah hitam, dan nikel",
+      "benar": "b"
+    }
+  },
+  {
+    "soal5": {
+      "soal": "Benda yang tidak bisa ditarik magnet dinamakan.... ",
+      "a": "a. benda non magnetis",
+      "b": "b. benda non logam",
+      "c": "c. benda magnetis",
+      "d": "d. benda non logam",
+      "benar": "a"
+    }
+  },
+  {
+    "soal6": {
+      "soal": "garis gaya magnet yang rapat, akan menunjukkan medan magnet yang ...",
+      "a": "a. biasa",
+      "b": "b. kuat",
+      "c": "c. Lemah",
+      "d": "d. Semua Benar",
+      "benar": "b"
+    }
+  },
+  {
+    "soal7": {
+      "soal": "berikut bukan cara menguatkan magnet, yaitu... ",
+      "a": "a. dialiri arus DC",
+      "b": "b. dialiri arus AC",
+      "c": "c. dibakar",
+      "d": "d. Semua Benar",
+      "benar": "a"
+    }
+  },
+  {
+    "soal8": {
+      "soal": "Kutub selatan magnet dengan kutub selatan magnet jika didekatkan akan... ",
+      "a": "a. Tarik Menarik",
+      "b": "b. Tidak Terjadi apa-apa",
+      "c": "c. Tolak Menolak",
+      "d": "d. Semua Benar",
+      "benar": "c"
+    }
+  },
+  {
+    "soal9": {
+      "soal": "Benda yang tidak bisa ditarik magnet dinamakan.... ",
+      "a": "a. magnet buatan dan magnet alam",
+      "b": "b. magnet ladam dan magnet batang",
+      "c": "c. magnet silinder dan magnet jarum",
+      "d": "d. Semua Benar",
+      "benar": "a"
+    }
+  }
+]

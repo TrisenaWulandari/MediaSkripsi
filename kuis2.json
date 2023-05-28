@@ -1,0 +1,102 @@
+[
+  {
+    "soal0": {
+      "soal": "berikut ini beberapa pembangkit listrik yang energinya bisa terbaharui, kecuali..",
+      "a": "a. PLTB ( Pembangkit listrik tenaga batu bara)",
+      "b": "b. PLTS ( Pembangkit listrik tenaga surya)",
+      "c": "c. PLTA ( Pembangkit listrik tenaga angin)",
+      "d": "d. PLTPB (pembangkit listrik tenaga panas bumi)",
+      "benar": "a"
+    }
+  },
+  {
+    "soal1": {
+      "soal": "Listrik dibagi menjadi 2, yaitu....",
+      "a": "a. Listrik dinamis dan bergerak",
+      "b": "b. Listrik statis dan dinamis",
+      "c": "c. Listrik statis dan diam",
+      "d": "d. Listrik statis dan tetap",
+      "benar": "b"
+    }
+  },
+  {
+    "soal2": {
+      "soal": "Pembangkit listrik berikut ini yang sangat bergantung pada kondisi cuaca adalah . . .",
+      "a": "a. pembangkit listrik tenaga uap",
+      "b": "b. pembangkit listrik tenaga diesel",
+      "c": "c. pembangkit listrik tenaga angin",
+      "d": "d. pembangkit listrik tenaga nuklir",
+      "benar": "c"
+    }
+  },
+  {
+    "soal3": {
+      "soal": "Contoh pembangkit listrik berikut ini yang tidak ramah lingkungan menggunakan sumber daya .....",
+      "a": "a. Batu bara",
+      "b": "b. Cahaya matahari",
+      "c": "c. Angin",
+      "d": "d. Air",
+      "benar": "a"
+    }
+  },
+  {
+    "soal4": {
+      "soal": "PLTA adalah salah satu jenis pembangkit listrik yang memanfaatkan energi potensial",
+      "a": "a. Geothermal",
+      "b": "b. Udara",
+      "c": "c. Gas",
+      "d": "d. Air",
+      "benar": "d"
+    }
+  },
+  {
+    "soal5": {
+      "soal": "Berikut ini merupakan kompponen utama dalam PLTA, kecuali ... ",
+      "a": "a. Bendungan",
+      "b": "b. Pipa Pesat",
+      "c": "c. Generator",
+      "d": "d. Kincir angin",
+      "benar": "d"
+    }
+  },
+  {
+    "soal6": {
+      "soal": "Semua benda yang mampu menghasilkan energi listrik disebut...",
+      "a": "a. Sumber energi cahaya",
+      "b": "b. Sumber energi Listrik",
+      "c": "c. Rangkaian Listrik",
+      "d": "d. Energi",
+      "benar": "b"
+    }
+  },
+  {
+    "soal7": {
+      "soal": "Solder digunakan untuk merakit atau membongkar komponen pada peralatan elektronik. Perubahan energi yang terjadi adalah .... ",
+      "a": "a. energi panas menjadi energi cahaya",
+      "b": "b. energi gerak menjadi energi listrik",
+      "c": "c. energi listrik menjadi energi panas",
+      "d": "d. Semua Bener",
+      "benar": "c"
+    }
+  },
+  {
+    "soal8": {
+      "soal": "Pernyataan berikut yang benar adalah ...",
+      "a": "a. Batubara termasuk sumberdaya alam yang kekal",
+      "b": "b. solar diperoleh dari pengolahan batubara",
+      "c": "c. bensin berasal dari minyak bumi",
+      "d": "d. Solar diperolah dari minyak bumi",
+      "benar": "c"
+    }
+  },
+  {
+    "soal9": {
+      "soal": "Perubahan energi yang terjadi ketika kita menyalakan benda diatas adalah ... ",
+      "a": "a. Energi kimia menjadi energi gerak",
+      "b": "b. Energi listrik menjadi energi bunyi dan cahaya",
+      "c": "c. Energi listrik menjadi energi pegas dan gerak",
+      "d": "d. Energi Listrik menjadi energi panas",
+      "benar": "b"
+    }
+  }
+]
